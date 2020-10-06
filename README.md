@@ -1,8 +1,29 @@
-# vue-photosite
-* Site de trabalho do fotógrafo Glenio Campregher.
+# photo_site
 
-* Construido com Vue.js.
+## Project setup
+```
+npm install
+```
 
-* Uso da API do Flickr.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Para acessar [Clique Aqui](https://guimma.github.io/vue-photosite/)
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
